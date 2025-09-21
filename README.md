@@ -17,7 +17,7 @@ Welcome to the **Bento Grid Portfolio** project! This is a modern, aesthetic, an
     <a href="https://youtu.be/hmgG97mU-oo"><strong>➥ Watch Tutorial</strong></a>
     <br>
     <br>
-    <a href="https://t.me/withaarzoo"><strong>➥ Download Full Source Code</strong></a>
+    <a href="https://t.me/codewithaarzoo"><strong>➥ Download Full Source Code</strong></a>
   </div>
 
 </div>
@@ -93,7 +93,7 @@ Bento-Portfolio/
 
 ## 📥 Source Code
 
-For full access to the source code, [click here](https://t.me/withaarzoo)
+For full access to the source code, [click here](https://t.me/codewithaarzoo)
 
 ---
 
@@ -123,4 +123,5 @@ For collaborations or queries, reach out via **[Bento](https://bento.me/withaarz
 ## 🖼️ Thumbnail
 
 ![Thumbnail](./preview.jpg "thumbnail")
+
 
