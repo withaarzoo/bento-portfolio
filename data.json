@@ -1,0 +1,156 @@
+{
+  "profile": {
+    "name": "Aarzoo",
+    "image": [
+      { "black": "./images/avatar-black.png" },
+      { "white": "./images/avatar-white.png" },
+      { "red": "./images/avatar-red.png" },
+      { "blue": "./images/avatar-blue.png" },
+      { "green": "./images/avatar-green.png" },
+      { "yellow": "./images/avatar-yellow.png" },
+      { "purple": "./images/avatar-purple.png" }
+    ],
+    "bio": "Full-Stack Developer with 5+ years of experience building scalable web applications. Passionate about clean code, performance, and creating intuitive user experiences."
+  },
+  "interests": [
+    { "name": "Open Source Contributions" },
+    { "name": "System Design" },
+    { "name": "Gaming" },
+    { "name": "Tech Podcasts" },
+    { "name": "Hiking & Outdoors" },
+    { "name": "DevOps Practices" },
+    { "name": "Cloud Computing" },
+    { "name": "Machine Learning" },
+    { "name": "Arduino Projects" },
+    { "name": "Competitive Coding" },
+    { "name": "UI/UX Exploration" }
+  ],
+  "experience": [
+    {
+      "id": "freelancer",
+      "company": "Google",
+      "role": "Senior Software Engineer",
+      "period": "2020 - Present",
+      "points": [
+        "Led the development of a new microservices architecture using Node.js and Docker.",
+        "Mentored junior developers and promoted best practices through code reviews.",
+        "Improved application performance by 30% via database optimization and caching.",
+        "Engineered a real-time data processing pipeline using Kafka and WebSockets.",
+        "Collaborated with product managers to define and implement new features."
+      ]
+    },
+    {
+      "id": "meetzed",
+      "company": "Microsoft",
+      "role": "Full-Stack Developer",
+      "period": "2018 - 2020",
+      "points": [
+        "Developed and maintained RESTful APIs for the company's flagship product.",
+        "Wrote unit and integration tests to ensure code quality and reliability."
+      ]
+    }
+  ],
+  "skills": {
+    "languages_frameworks": [
+      { "name": "HTML5", "icon": "./images/icons/html.png" },
+      { "name": "CSS3", "icon": "./images/icons/css.png" },
+      { "name": "JavaScript", "icon": "./images/icons/javascript.png" },
+      { "name": "TypeScript", "icon": "./images/icons/typescript.png" },
+      { "name": "React", "icon": "./images/icons/react.png" },
+      { "name": "Next.js", "icon": "./images/icons/nextjs.png" },
+      { "name": "Python", "icon": "./images/icons/python.png" },
+      { "name": "Java", "icon": "./images/icons/java.png" },
+      { "name": "Php", "icon": "./images/icons/php.png" },
+      { "name": "C++", "icon": "./images/icons/c++.png" },
+      { "name": "Ruby", "icon": "./images/icons/ruby.png" },
+      { "name": "Rust", "icon": "./images/icons/rust.png" }
+    ],
+    "backend_databases": [
+      { "name": "Node.Js", "icon": "./images/icons/nodejs.png" },
+      { "name": "Express.js", "icon": "./images/icons/expressjs.png" },
+      { "name": "Python", "icon": "./images/icons/python.png" },
+      { "name": "Java", "icon": "./images/icons/java.png" },
+      { "name": "C#", "icon": "./images/icons/c-serp.png" },
+      { "name": "SQL", "icon": "./images/icons/sql.png" },
+      { "name": "PostgreSQL", "icon": "./images/icons/postgresql.png" },
+      { "name": "MongoDB", "icon": "./images/icons/mongodb.png" }
+    ],
+    "tools_platforms": [
+      { "name": "VS Code", "icon": "./images/icons/vscode.png" },
+      { "name": "IntelliJ IDEA", "icon": "./images/icons/intellij.png" },
+      { "name": "Git", "icon": "./images/icons/git.png" },
+      { "name": "Docker", "icon": "./images/icons/docker.png" },
+      { "name": "AWS", "icon": "./images/icons/aws.png" },
+      { "name": "Figma", "icon": "./images/icons/figma.png" }
+    ]
+  },
+  "education": [
+    {
+      "level": "Master's Degree",
+      "details": "M.S. in Software Engineering",
+      "institution": "Global Tech Institute",
+      "year": "2018-20"
+    },
+    {
+      "level": "Bachelor's Degree",
+      "details": "B.S. in Computer Science",
+      "institution": "State University",
+      "year": "2014-18"
+    },
+    {
+      "level": "Professional Certificate",
+      "details": "AWS Certified Cloud Practitioner",
+      "institution": "Amazon Web Services",
+      "year": "2021"
+    }
+  ],
+  "projects": [
+    {
+      "title": "E-commerce Platform API",
+      "description": "A scalable RESTful API for an e-commerce site using Node.js, Express, and MongoDB.",
+      "image": "./images/ecommerce-project.png",
+      "link": "#"
+    },
+    {
+      "title": "Real-time Chat Application",
+      "description": "A full-stack chat app featuring WebSockets, React for the frontend, and user authentication.",
+      "image": "./images/chat-project.png",
+      "link": "#"
+    },
+    {
+      "title": "Cloud Deployment Automation",
+      "description": "CI/CD pipeline using GitHub Actions to automate testing and deployment to AWS.",
+      "image": "./images/cloud-project.png",
+      "link": "#"
+    }
+  ],
+  "portfolio": [
+    { "name": "Instagram", "url": "#", "icon": "./images/icons/instagram.png" },
+    { "name": "X", "url": "#", "icon": "./images/icons/x.png" },
+    { "name": "LinkedIn", "url": "#", "icon": "./images/icons/linkedin.png" },
+    { "name": "GitHub", "url": "#", "icon": "./images/icons/github.png" },
+    { "name": "Hashnode", "url": "#", "icon": "./images/icons/hashnode.png" },
+    { "name": "Threads", "url": "#", "icon": "./images/icons/threads.png" },
+    { "name": "Stack Overflow", "url": "#", "icon": "./images/icons/stackoverflow.png" }
+  ],
+  "details": [
+    { "type": "Age", "value": "29 years" },
+    {
+      "type": "Email",
+      "value": "alex.chen.dev@email.com",
+      "url": "mailto:alex.chen.dev@email.com"
+    },
+    {
+      "type": "Phone",
+      "value": "+1 (555) 123-4567",
+      "url": "tel:+15551234567"
+    },
+    {
+      "type": "Location",
+      "value": "San Francisco, CA",
+      "icon": "./images/icons/location.png"
+    },
+    { "type": "Website", "value": "alexchen.dev", "url": "#" },
+    { "type": "Availability", "value": "Open to work" }
+  ]
+}
