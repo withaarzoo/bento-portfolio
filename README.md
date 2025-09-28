@@ -122,7 +122,8 @@ For collaborations or queries, reach out via **[Bento](https://bento.me/withaarz
 
 ## 🖼️ Thumbnail
 
-![Thumbnail](./preview.jpg "thumbnail")
+![Thumbnail](./preview.png "thumbnail")
+
 
 
 
