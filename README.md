@@ -14,7 +14,7 @@
 Welcome to the **Bento Grid Portfolio** project! This is a modern, aesthetic, and responsive **portfolio website** built with **HTML, CSS, and JavaScript** using a **Bento-style grid layout**. Perfect for showcasing your work, projects, and skills with style — no frameworks needed!
 
   <div>
-    <a href="https://youtu.be/hmgG97mU-oo"><strong>➥ Watch Tutorial</strong></a>
+    <a href="https://youtu.be/dh_1i0XyxQw"><strong>➥ Watch Tutorial</strong></a>
     <br>
     <br>
     <a href="https://t.me/codewithaarzoo"><strong>➥ Download Full Source Code</strong></a>
@@ -123,5 +123,6 @@ For collaborations or queries, reach out via **[Bento](https://bento.me/withaarz
 ## 🖼️ Thumbnail
 
 ![Thumbnail](./preview.jpg "thumbnail")
+
 
 
