@@ -1,156 +1,129 @@
-{
-  "profile": {
-    "name": "Aarzoo",
-    "image": [
-      { "black": "./images/avatar-black.png" },
-      { "white": "./images/avatar-white.png" },
-      { "red": "./images/avatar-red.png" },
-      { "blue": "./images/avatar-blue.png" },
-      { "green": "./images/avatar-green.png" },
-      { "yellow": "./images/avatar-yellow.png" },
-      { "purple": "./images/avatar-purple.png" }
-    ],
-    "bio": "Full-Stack Developer with 5+ years of experience building scalable web applications. Passionate about clean code, performance, and creating intuitive user experiences."
-  },
-  "interests": [
-    { "name": "Open Source Contributions" },
-    { "name": "System Design" },
-    { "name": "Gaming" },
-    { "name": "Tech Podcasts" },
-    { "name": "Hiking & Outdoors" },
-    { "name": "DevOps Practices" },
-    { "name": "Cloud Computing" },
-    { "name": "Machine Learning" },
-    { "name": "Arduino Projects" },
-    { "name": "Competitive Coding" },
-    { "name": "UI/UX Exploration" }
-  ],
-  "experience": [
-    {
-      "id": "freelancer",
-      "company": "Google",
-      "role": "Senior Software Engineer",
-      "period": "2020 - Present",
-      "points": [
-        "Led the development of a new microservices architecture using Node.js and Docker.",
-        "Mentored junior developers and promoted best practices through code reviews.",
-        "Improved application performance by 30% via database optimization and caching.",
-        "Engineered a real-time data processing pipeline using Kafka and WebSockets.",
-        "Collaborated with product managers to define and implement new features."
-      ]
-    },
-    {
-      "id": "meetzed",
-      "company": "Microsoft",
-      "role": "Full-Stack Developer",
-      "period": "2018 - 2020",
-      "points": [
-        "Developed and maintained RESTful APIs for the company's flagship product.",
-        "Wrote unit and integration tests to ensure code quality and reliability."
-      ]
-    }
-  ],
-  "skills": {
-    "languages_frameworks": [
-      { "name": "HTML5", "icon": "./images/icons/html.png" },
-      { "name": "CSS3", "icon": "./images/icons/css.png" },
-      { "name": "JavaScript", "icon": "./images/icons/javascript.png" },
-      { "name": "TypeScript", "icon": "./images/icons/typescript.png" },
-      { "name": "React", "icon": "./images/icons/react.png" },
-      { "name": "Next.js", "icon": "./images/icons/nextjs.png" },
-      { "name": "Python", "icon": "./images/icons/python.png" },
-      { "name": "Java", "icon": "./images/icons/java.png" },
-      { "name": "Php", "icon": "./images/icons/php.png" },
-      { "name": "C++", "icon": "./images/icons/c++.png" },
-      { "name": "Ruby", "icon": "./images/icons/ruby.png" },
-      { "name": "Rust", "icon": "./images/icons/rust.png" }
-    ],
-    "backend_databases": [
-      { "name": "Node.Js", "icon": "./images/icons/nodejs.png" },
-      { "name": "Express.js", "icon": "./images/icons/expressjs.png" },
-      { "name": "Python", "icon": "./images/icons/python.png" },
-      { "name": "Java", "icon": "./images/icons/java.png" },
-      { "name": "C#", "icon": "./images/icons/c-serp.png" },
-      { "name": "SQL", "icon": "./images/icons/sql.png" },
-      { "name": "PostgreSQL", "icon": "./images/icons/postgresql.png" },
-      { "name": "MongoDB", "icon": "./images/icons/mongodb.png" }
-    ],
-    "tools_platforms": [
-      { "name": "VS Code", "icon": "./images/icons/vscode.png" },
-      { "name": "IntelliJ IDEA", "icon": "./images/icons/intellij.png" },
-      { "name": "Git", "icon": "./images/icons/git.png" },
-      { "name": "Docker", "icon": "./images/icons/docker.png" },
-      { "name": "AWS", "icon": "./images/icons/aws.png" },
-      { "name": "Figma", "icon": "./images/icons/figma.png" }
-    ]
-  },
-  "education": [
-    {
-      "level": "Master's Degree",
-      "details": "M.S. in Software Engineering",
-      "institution": "Global Tech Institute",
-      "year": "2018-20"
-    },
-    {
-      "level": "Bachelor's Degree",
-      "details": "B.S. in Computer Science",
-      "institution": "State University",
-      "year": "2014-18"
-    },
-    {
-      "level": "Professional Certificate",
-      "details": "AWS Certified Cloud Practitioner",
-      "institution": "Amazon Web Services",
-      "year": "2021"
-    }
-  ],
-  "projects": [
-    {
-      "title": "E-commerce Platform API",
-      "description": "A scalable RESTful API for an e-commerce site using Node.js, Express, and MongoDB.",
-      "image": "./images/ecommerce-project.png",
-      "link": "#"
-    },
-    {
-      "title": "Real-time Chat Application",
-      "description": "A full-stack chat app featuring WebSockets, React for the frontend, and user authentication.",
-      "image": "./images/chat-project.png",
-      "link": "#"
-    },
-    {
-      "title": "Cloud Deployment Automation",
-      "description": "CI/CD pipeline using GitHub Actions to automate testing and deployment to AWS.",
-      "image": "./images/cloud-project.png",
-      "link": "#"
-    }
-  ],
-  "portfolio": [
-    { "name": "Instagram", "url": "#", "icon": "./images/icons/instagram.png" },
-    { "name": "X", "url": "#", "icon": "./images/icons/x.png" },
-    { "name": "LinkedIn", "url": "#", "icon": "./images/icons/linkedin.png" },
-    { "name": "GitHub", "url": "#", "icon": "./images/icons/github.png" },
-    { "name": "Hashnode", "url": "#", "icon": "./images/icons/hashnode.png" },
-    { "name": "Threads", "url": "#", "icon": "./images/icons/threads.png" },
-    { "name": "Stack Overflow", "url": "#", "icon": "./images/icons/stackoverflow.png" }
-  ],
-  "details": [
-    { "type": "Age", "value": "29 years" },
-    {
-      "type": "Email",
-      "value": "alex.chen.dev@email.com",
-      "url": "mailto:alex.chen.dev@email.com"
-    },
-    {
-      "type": "Phone",
-      "value": "+1 (555) 123-4567",
-      "url": "tel:+15551234567"
-    },
-    {
-      "type": "Location",
-      "value": "San Francisco, CA",
-      "icon": "./images/icons/location.png"
-    },
-    { "type": "Website", "value": "alexchen.dev", "url": "#" },
-    { "type": "Availability", "value": "Open to work" }
-  ]
-}
+====== Theme Settings Button ======
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="3"></circle>
+    <path
+        d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z">
+    </path>
+</svg>
+
+====== Theme Settings Panel ======
+Choose Theme
+Select your favorite accent color.
+
+====== Profile ======
+name : Aarzoo
+image : ./images/avatar-black.png
+bio : Full-Stack Developer with 5+ years of experience building scalable web applications. Passionate about clean code, performance, and creating intuitive user experiences.
+
+====== Interests ======
+Open Source Contributions
+System Design
+Gaming
+Tech Podcasts
+Hiking & Outdoors
+DevOps Practices
+Cloud Computing
+Machine Learning
+Arduino Projects
+Competitive Coding
+UI/UX Exploration
+
+====== Experience ======
+Google
+Senior Software Engineer
+2020 - Present
+Led the development of a new microservices architecture using Node.js and Docker.
+Mentored junior developers and promoted best practices through code reviews.
+Improved application performance by 30% via database optimization and caching.
+Engineered a real-time data processing pipeline using Kafka and WebSockets.
+Collaborated with product managers to define and implement new features.
+
+Microsoft
+Full-Stack Developer
+2018 - 2020
+Developed and maintained RESTful APIs for the company's flagship product.
+Wrote unit and integration tests to ensure code quality and reliability.
+
+====== Skills ======
+Languages & Frameworks
+HTML5            ./images/icons/html.png
+CSS3             ./images/icons/css.png
+JavaScript       ./images/icons/javascript.png
+TypeScript       ./images/icons/typescript.png
+React            ./images/icons/react.png
+Next.js          ./images/icons/nextjs.png
+Python           ./images/icons/python.png
+Java             ./images/icons/java.png
+Php              ./images/icons/php.png
+C++              ./images/icons/c++.png
+Ruby             ./images/icons/ruby.png
+Rust             ./images/icons/rust.png
+
+Backend & Databases
+Node.Js          ./images/icons/nodejs.png
+Express.js       ./images/icons/expressjs.png
+Python           ./images/icons/python.png
+Java             ./images/icons/java.png
+C#               ./images/icons/c-serp.png
+SQL              ./images/icons/sql.png
+PostgreSQL       ./images/icons/postgresql.png
+MongoDB          ./images/icons/mongodb.png
+
+Tools & Platforms
+VS Code          ./images/icons/vscode.png
+IntelliJ IDEA    ./images/icons/intellij.png
+Git              ./images/icons/git.png
+Docker           ./images/icons/docker.png
+AWS              ./images/icons/aws.png
+Figma            ./images/icons/figma.png
+
+====== Education ======
+Master's Degree
+M.S. in Software Engineering
+Global Tech Institute
+2018-20
+
+Bachelor's Degree
+B.S. in Computer Science
+State University
+2014-18
+
+Professional Certificate
+AWS Certified Cloud Practitioner
+Amazon Web Services
+2021
+
+====== Projects ======
+E-commerce Platform API
+A scalable RESTful API for an e-commerce site using Node.js, Express, and MongoDB.
+./images/ecommerce-project.png
+https://dgisight.oxzeen.com
+
+Real-time Chat Application
+A full-stack chat app featuring WebSockets, React for the frontend, and user authentication.
+./images/chat-project.png
+https://dgisight.oxzeen.com
+
+Cloud Deployment Automation
+CI/CD pipeline using GitHub Actions to automate testing and deployment to AWS.
+./images/cloud-project.png
+https://dgisight.oxzeen.com
+
+====== Portfolio ======
+Instagram         ./images/icons/instagram.png
+X                 ./images/icons/x.png
+LinkedIn          ./images/icons/linkedin.png
+GitHub            ./images/icons/github.png
+Hashnode          ./images/icons/hashnode.png
+Threads           ./images/icons/threads.png
+Stack Overflow    ./images/icons/stackoverflow.png
+
+====== Details ======
+29 years
+alex.chen.dev@email.com
++1 (555) 123-4567
+./images/icons/location.png
+San Francisco, CA
+alexchen.dev
+Open to work
